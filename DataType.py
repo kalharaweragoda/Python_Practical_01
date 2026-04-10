@@ -23,3 +23,12 @@ b = False
 print(a)
 print(type(a))
 
+
+# Complex
+
+a = 5+6j
+b = 3-4j
+
+print(a)
+print(type(a))
+
