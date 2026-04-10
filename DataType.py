@@ -12,3 +12,6 @@ print(a.__sizeof__())
 
 # float
 
+a = 11.5
+b = -2.4
+
