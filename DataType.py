@@ -15,3 +15,11 @@ print(a.__sizeof__())
 a = 11.5
 b = -2.4
 
+# bool
+
+a = True
+b = False
+
+print(a)
+print(type(a))
+
